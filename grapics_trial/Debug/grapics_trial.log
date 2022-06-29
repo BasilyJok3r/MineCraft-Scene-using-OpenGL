@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\BASILYJOK3R\source\repos\grapics_trial\grapics_trial\main.cpp(13,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\BASILYJOK3R\source\repos\grapics_trial\grapics_trial\main.cpp(16,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\BASILYJOK3R\source\repos\grapics_trial\grapics_trial\main.cpp(16,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\BASILYJOK3R\source\repos\grapics_trial\grapics_trial\main.cpp(131,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\BASILYJOK3R\source\repos\grapics_trial\grapics_trial\main.cpp(134,15): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\BASILYJOK3R\source\repos\grapics_trial\grapics_trial\main.cpp(185,29): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\BASILYJOK3R\source\repos\grapics_trial\grapics_trial\main.cpp(186,29): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\BASILYJOK3R\source\repos\grapics_trial\grapics_trial\main.cpp(187,29): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\BASILYJOK3R\source\repos\grapics_trial\grapics_trial\main.cpp(195,29): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\BASILYJOK3R\source\repos\grapics_trial\grapics_trial\main.cpp(196,29): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\BASILYJOK3R\source\repos\grapics_trial\grapics_trial\main.cpp(197,29): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  grapics_trial.vcxproj -> C:\Users\BASILYJOK3R\source\repos\grapics_trial\Debug\grapics_trial.exe
